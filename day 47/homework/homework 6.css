@@ -1,0 +1,11 @@
+.Parent-div{
+    display: flex;
+    background-color: red;
+    height: 700px;
+    width: 700px;
+
+}
+
+div{
+    flex-direction: column;
+}

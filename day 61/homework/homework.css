@@ -1,0 +1,13 @@
+.header{
+    background-color: white;
+    width: 1410px;
+    height: 56px;
+    border: 1px solid black;
+}
+
+.p1{
+    width: 40px;
+    height: 27px;
+    
+    margin-left: 78px;
+}

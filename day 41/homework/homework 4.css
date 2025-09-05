@@ -1,0 +1,8 @@
+a:active{
+    color:violet;
+    transition: 1s;
+    background-color: red;
+}
+a{
+    text-decoration: none;
+}

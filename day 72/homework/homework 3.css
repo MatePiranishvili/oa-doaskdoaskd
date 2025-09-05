@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.parent{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.child1{
+    grid-column: 6 / 7;
+    grid-row : 6 /7;
+    background-color: royalblue;
+
+}
+.child2{
+    grid-column: 6 / 7;
+     background-color: red;
+}
+.child3{
+    grid-row : 6 /7;
+    background-color: blueviolet;
+}

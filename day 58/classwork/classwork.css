@@ -1,0 +1,24 @@
+div{
+    background-color: red;
+    height: 400px;
+    width: 400px;
+    
+}
+
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    animation-name: Myanimation;
+
+}
+
+@keyframes Myanimation{
+    0%{
+        background-color: red;
+    }
+    100%{
+        background-color: blue;
+    }
+}

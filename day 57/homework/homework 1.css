@@ -1,0 +1,28 @@
+.B1{
+    color: cadetblue ;
+    background-color: brown;
+}
+
+.B1:hover{
+    color: aquamarine;
+    background-color: blueviolet;
+    transition: 0.5s;
+}
+
+
+.B2{
+    background-color: blue;
+}
+
+.B2:active{
+    cursor: pointer;
+    transform: rotate(360deg)  scale(2);
+    transition: 2s;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}

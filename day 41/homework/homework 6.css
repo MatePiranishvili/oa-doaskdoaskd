@@ -1,0 +1,41 @@
+.a1{
+    text-decoration: none;
+}
+.a2{
+    text-decoration: none;
+}
+.a3{
+    text-decoration: none;
+}
+.a4{
+    text-decoration: none;
+}
+.a5{
+    text-decoration: none;
+}
+
+.a1:hover{
+    text-decoration: underline;
+    transition: 2s;
+    color: cadetblue;
+}
+.a2:hover{
+    text-decoration: underline;
+    transition: 2s;
+    color: brown;
+}
+.a3:hover{
+    text-decoration: underline;
+    transition: 2s;
+    color: red;
+}
+.a4:hover{
+    text-decoration: underline;
+    transition: 2s;
+    color: aqua;
+}
+.a5:hover{
+    text-decoration: underline;
+    transition: 2s;
+    color: blueviolet;
+}

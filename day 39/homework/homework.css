@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Itim&family=Playwrite+MX+Guides&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Itim&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&display=swap');
+.p1{
+    font-family: "Playwrite MX Guides", cursive;
+
+}
+.p2{
+    font-family: "Ubuntu", serif;
+}
+.p3{
+    font-family: "Roboto Condensed", sans-serif;
+}
+.p4{
+    font-family: "Playfair Display", serif;
+}
+.p5{
+    font-family: "Ballet", cursive;
+}

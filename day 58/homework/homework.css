@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+div{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    animation-name: Myanimation;animation-direction: alternate ; animation-duration: 4s; animation-iteration-count: infinite;
+
+}
+
+
+@keyframes Myanimation{
+    0%{
+       transform: translateX(0px);
+       cursor: pointer;
+    }
+
+    100%{
+        transform: translateX(500px)
+    }
+}

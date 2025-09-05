@@ -1,0 +1,31 @@
+.p0{
+    text-align: center;
+    color: aqua;
+    border: solid aqua;
+    border-radius: 10px ;
+}
+
+.p1{
+    color: aqua;
+
+
+
+}
+
+.button{
+    background-color: red;
+    color: blue;
+    border: solid;
+
+}
+
+
+.button:hover{
+    color: red;
+    background-color: blue;
+    transition: 2s;
+    border: solid;
+    border-radius: 30px 670px 30px 670px;
+    border-color: blueviolet;
+}
+

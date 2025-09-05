@@ -1,0 +1,41 @@
+.div1{
+    width: 300px;
+    height: 510px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    display: flex;
+    margin-left: 450px;
+}
+
+.P1{
+    display: flex;
+    margin-top: -500px;
+    color: brown;
+    font-size: 20px;
+    margin-left: 499px;
+}
+
+.p2{
+    color: aqua;
+    font-size: 20px;
+    margin-left: 450px;
+}
+
+.p3{
+    color: aqua;
+    font-size: 16px;
+    margin-left: 450px;
+}
+
+.p4{
+    color: aqua;
+    font-size: 20px;
+    margin-left: 450px;
+}
+
+.p5{
+    color: aqua;
+    font-size: 16px;
+    margin-left: 450px;
+}

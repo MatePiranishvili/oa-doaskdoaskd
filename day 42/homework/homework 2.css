@@ -1,0 +1,46 @@
+.image{
+    border:3px solid;
+    color: black;
+    border-style:double;
+    height: 60px;
+    border-radius: 10%;
+    margin-top: -10px;
+    
+
+}
+.h0{
+    color: brown;
+    font-size: 13px;
+    margin-left: 18px;
+    margin-top: -5px;
+}
+
+p{
+    color: brown;
+    text-align: center;
+}
+
+.image2{
+    width: 60px;
+    border-radius: 10%;
+    border: 3px solid;
+    border-style: double;
+    color: black;
+}
+
+.paragraph{
+   text-align: left;
+   margin-top: -5px;
+   margin-left: 15px;
+   font-size: 13px;
+   color: brown;
+   
+   
+}
+  
+
+p{
+    font-family: "Ubuntu", serif;
+
+}
+

@@ -1,0 +1,42 @@
+.input1{
+    border: 1px solid;
+    color: blue;
+    border-radius: 5px;
+    outline: none;
+}
+
+.input2{
+    outline: none;
+    border: 1px solid;
+    color: red;
+    border-radius: 5px
+    
+}
+
+
+.input3{
+    border: 1px solid;
+    border-radius: 5px;
+    outline: none;
+    color: green;
+}
+
+
+.label1{
+    color: blue;
+    text-decoration: line-through;
+
+}
+
+
+.label2{
+    color: red;
+    text-decoration: line-through;
+}
+
+
+
+.label3{
+    color: green;
+   text-decoration: line-through;
+}

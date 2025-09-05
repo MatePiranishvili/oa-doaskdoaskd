@@ -1,0 +1,20 @@
+.ul1{
+    list-style-type: armenian;
+}
+
+.ul2{
+    list-style-type: georgian;
+}
+
+.ul3{
+    list-style-type: square;
+}
+
+
+.ul4{
+    list-style: upper-roman;
+}
+
+.ul5{
+    list-style-type: circle;
+}

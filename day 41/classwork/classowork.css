@@ -1,0 +1,47 @@
+a{
+    color: aquamarine;
+    text-decoration: none;
+}
+
+a:hover{
+    color: blueviolet;
+    transition: 2s;
+    text-decoration: underline;
+} 
+
+
+
+.B{
+    color: blue;
+    background-color: black;
+
+}
+
+.B:hover{
+    color: red;
+    transition: 2s;
+    background-color: aqua;
+    font-size: 100px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    margin: 100px;
+}
+.img1:hover{
+    transform: scale(120%);
+    transition: 0.25s;
+    
+
+}
+
+.img2:hover{
+    transform: scale(110%);
+    transition: 0.25s;
+   ;
+}
+.img3:hover{
+    transform: scale(110%);
+    transition: 0.25s;
+    
+}

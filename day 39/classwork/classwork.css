@@ -1,0 +1,21 @@
+.p1{
+    font-family: serif;
+    color: brown;
+}
+.p2{
+    font-family: sans-serif;
+    color: blue;
+}
+.p3{
+    font-family: cursive;
+    color:red;
+}
+.p4{
+    font-family:monospace;
+    color:blueviolet;
+}
+.p5{
+    font-family:fantasy;
+    color:green;
+}
+

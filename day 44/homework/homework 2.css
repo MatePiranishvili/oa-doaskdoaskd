@@ -1,0 +1,148 @@
+.p0{
+    text-align: center;
+    color: orange;
+    border: solid;
+    border-radius: 10px;
+}
+
+.img1{
+    height: 100px;
+    border: solid;
+    border-radius: 10px;
+    border-color: orangered;
+}
+
+.img1:hover{
+    height: 105px;
+}
+
+
+.img2{
+    height: 100px;
+    border: solid;
+    border-radius: 10px;
+    border-color: orangered;
+}
+
+.img2:hover{
+    height: 105px;
+}
+
+
+.img3{
+    height: 100px;
+    border: solid;
+    border-radius: 10px;
+    border-color:orangered;
+}
+
+.img3:hover{
+    height: 105px;
+}
+
+.img4{
+    height: 100px;
+    border: solid;
+    border-radius: 10px;
+    border-color:orangered;
+}
+
+.img4:hover{
+    height: 105px;
+}
+
+.img5{
+    height: 100px;
+    border: solid;
+    border-radius: 10px;
+    border-color:orangered;
+}
+
+
+.img5:hover{
+    height: 105px;
+}
+
+.p1{
+    border: solid;
+    border-color: red;
+    border-radius: 10px;
+}
+.li1{
+    border: solid;
+    border-color: orange;
+}
+.li2{
+    border: solid;
+    border-color: orange;
+}
+
+.li3{
+    border: solid;
+    border-color: orange;
+}
+.li4
+{
+    border: solid;
+    border-color: orange;
+
+}
+.li5{
+    border: solid;
+    border-color: orange;
+}
+.li6{
+    border: solid;
+    border-color: orange;
+}
+
+.li0{
+    border: solid;
+    border-color: orange;
+}
+
+.li-1{
+    border: solid;
+    border-color: orange;
+}
+.p2{
+    color: orangered;
+    text-align: center;
+    border: solid;
+    border-radius: 10px;
+}
+
+.ol1{
+    list-style-type: armenian;
+}
+
+
+.ol2{
+    list-style-type: georgian;
+}
+
+
+.ol3{
+    list-style-type: lower-greek;
+}
+
+.ol4{
+    list-style-type:upper-roman;
+}
+
+
+.ol5{
+    list-style-type:lower-greek;
+}
+
+.ol6{
+    list-style-type: lower-alpha;
+}
+
+.ol7{
+    list-style-type: upper-latin;
+}
+
+.ol8{
+    list-style-type: upper-alpha;
+}

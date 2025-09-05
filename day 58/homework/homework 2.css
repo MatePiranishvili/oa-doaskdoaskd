@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+div{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    animation-name: rotation; animation-duration: 4s; animation-iteration-count: infinite;animation-direction: alternate;
+    cursor: pointer;
+
+}
+@keyframes rotation{
+    0%{
+        transform: rotate(0deg);
+        cursor: pointer;
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}

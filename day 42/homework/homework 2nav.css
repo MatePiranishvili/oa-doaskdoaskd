@@ -1,0 +1,51 @@
+.image{
+    height: 60px;
+    border: 3px double black;
+    Border-radius:10%;
+
+}
+
+.p0{
+    color: brown;
+    margin-left: 80px;
+    margin-top: -70px;
+    margin-left: 2cm;
+    font-size: 13px;
+}
+
+.p1{
+    
+    margin-top: -68px;
+   font-size: 8px;
+   
+}
+
+.p2{
+    color: brown;
+    margin-top: -10px;
+    
+}
+.p3{
+    color:brown;
+}
+
+footer{
+    background-color:darkcyan;
+    margin-top: 49px;
+    fill: aqua;
+    
+}
+
+
+.link{
+    color: aqua;
+}
+
+
+.link:hover{
+    transition: 2s;
+    color: lime;
+}
+.href2{
+    text-decoration: none;
+} 
