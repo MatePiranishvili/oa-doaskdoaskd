@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.div1{
+    background-color: white;
+    
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    display: grid;
+  
+    flex-direction: column;
+    padding: 50px;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    
+
+    
+
+}
+
+.h1{
+    color: #64beb9;
+    font-family: "Karla", sans-serif;
+    font-size: 25px;
+   
+    
+}
+
+body{
+    background-color: #e6eff6;
+    height: 100vh;
+    display: flex;               
+    justify-content: center;     
+    align-items: center;
+}
+
+.p1{
+    font-family: "Karla", sans-serif;
+    color: #c9e050;
+    font-size: 18;
+    font-weight: 600;
+    
+}
+
+.p2{
+    color: #c1c6cf;
+    opacity: 70%;
+    flex-direction: column;
+    font-family: "Karla", sans-serif;
+}
+
+.div2{
+    background-color: #2bb3b1;
+    padding: 50px;
+    border-radius: 0px 0px 0px 10px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.p3{
+    color: #e8fbff;
+    font-family: "Karla", sans-serif;
+    font-size: 20px;
+
+
+}
+
+.p4{
+    color: #e8fbff;
+    font-size: 35px;
+    font-family: "Karla", sans-serif;
+   
+}
+
+.p5{
+    color:#e8fbff; ;
+    font-size: 14px;
+    opacity: 70%;
+    font-family: "Karla", sans-serif;
+    
+}
+
+.div6{
+    display: flex;
+    align-items: center;
+    height: 100px;
+    gap: 5px;
+}
+
+.Parent{
+    display: grid;
+    grid-template-columns:  250px 250px;
+    grid-template-rows: 250px 250px;
+}
+
+.div3{
+    background-color: #4abebd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: left;
+    border-radius: 0px 0px 10px 0px;
+    
+}
+
+.p6{
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Karla", sans-serif;
+
+}
+
+.div7{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.p7{
+    color: white;
+    font-family: "Karla", sans-serif;
+    opacity:60%;
+}
+
+.p8{
+    color: white;
+    opacity: 60%;
+}
+
+.B1{
+    color: white;
+    font-family: "Karla", sans-serif;
+    background-color: #bfdf32;
+    border-radius: 50px;
+    height: 100px;
+    width: 150px;
+}

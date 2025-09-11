@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders:opsz,wght@10..72,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap');
+.div1{
+    background-color:hsl(30, 77%, 52%);
+    height: 1500px;
+    width: 1000px;
+    margin-left: 500px;
+    margin-top: 300px;
+    font-size: 90px;
+    color: white;
+    border: none; 
+    border-radius: 20px 0px 0px 20px;
+    font-family: "Big Shoulders", sans-serif;
+    
+    
+}
+
+.img1{
+    height:100px ;
+    margin-left: 100px;
+    margin-top: 110px;
+}
+
+.p1{
+    margin-left: 100px;
+    font-size: 130px;
+    margin-top: 40px;
+    font-family: "Big Shoulders", sans-serif;
+}
+
+.p2{
+    margin-left: 100px;
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 50px;
+    line-height:80px;
+    opacity: 0.7;
+}
+
+.b1{
+    text-transform: capitalize;
+    background-color: white;
+    border: none;
+    border-radius: 100px;
+    font-size: 60px;
+    color: hsl(30, 77%, 52%);
+    background-size:400px;
+    margin-top: 150px;
+    margin-left: 106px;
+    height: 160px;
+    width: 500px;
+    
+}
+
+
+.div2{
+    height: 1500px;
+    width: 1000px;
+    background-color: hsl(185, 98%, 23%);
+    margin-left: 1500px;
+    border: none;
+    border-radius: 0px 0px 0px 0px;
+    font-family: "Big Shoulders", sans-serif;
+    margin-top: -1500px
+    
+    
+}
+
+.img2{
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 110px;
+}
+
+.p3{
+    margin-left: 100px;
+    font-size: 130px;
+    margin-top: 40px;
+    font-family: "Big Shoulders", sans-serif;
+}
+
+.p4{
+    margin-left: 100px;
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 50px;
+    line-height:80px;
+    opacity: 0.7;
+}
+
+.b2{
+    text-transform: capitalize;
+    background-color: white;
+    border: none;
+    border-radius: 100px;
+    font-size: 60px;
+    color:hsl(185, 98%, 23%);
+    background-size:400px;
+    margin-top: 150px;
+    margin-left: 106px;
+    height: 160px;
+    width: 500px;
+}
+
+.div3{
+    height: 1500px;
+    width: 1000px;
+    background-color: hsl(179, 100%, 13%);
+    margin-left:2500px;
+    margin-top: -1500px;
+    border-radius: 0px 20px 20px 0px;
+}
+
+
+.img3{
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 110px;
+}
+
+
+.p5{
+    margin-left: 100px;
+    font-size: 130px;
+    margin-top: 40px;
+    font-family: "Big Shoulders", sans-serif;
+}
+
+.p6{
+    margin-left: 100px;
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 50px;
+    line-height:80px;
+    opacity: 0.7;
+}
+
+.b3{
+    text-transform: capitalize;
+    background-color: white;
+    border: none;
+    border-radius: 100px;
+    font-size: 60px;
+    color: hsl(179, 100%, 13%);
+    background-size:400px;
+    margin-top: 150px;
+    margin-left: 106px;
+    height: 160px;
+    width: 500px;
+}
