@@ -1,16 +1,19 @@
-// 1. ლოგიკური ოპერატორებია ისეთი ოპერატორები რომლებიც გამოიყენება რომ შეადარო სხვა რაღაცეებს და იყენებენ ture/false
-// 2. false && true || 'name' === 'Name' && 1 == '1' გამოიტანს  name === name გამოიტანს  true-ს ხოლო 1 === '1'გამოიტანს falseX რადგან ერთი 1 არის 
-// ინტეგერი ხოლო მეორე არის სტრინგი
-// და ისინი ერთიდაიგივე არ არიან ხოლო name ები ორივენი ერთიდაიგივე სიტყვები არიან
-// 3. კომენტარის სახით ახსენით რას გამოიტანს და რატომ: true || false  && false && 10 === 10.0 false and false არის false რადგან სხვა არჩევანი არ არის
-//   და 10 ===10.0 არის false რადგან 10.0 არუის ბულიანი და არა სტრინიგი
-// 4. : true && false || !false == true & true   პირველში true and false გამოიტანს true რადგან true მხარს უჭერს and-ს და
-//  true and true გამოიტანსა true-ს რადგამ true and-ს უჭერს მხარს
-// 5. ?
+// 1.კომენტარის სახით ახსენით ლოგიკური ოპერატორები.
+// 1. ლოგიკური ოპერატორებია
+
+// 2.კომენტარის სახით ახსენით რას გამოიტანს და რატომ: true || false  && false && 10 === 10.0
+// 2. false and false = false 10 = 10.0 = true false and true = false true or false = true 
+
+// 3.კომენტარის სახით ახსენით რას გამოიტანს და რატომ: false && true || 'name' === 'Name' && 1 == '1'
+// 3. false and true = false   'name ' === 'Name' = false 1 == '1' = true false and true === false false or false = false 
+
+// 4.კომენტარის სახით ახსენით რას გამოიტანს და რატომ: true && false || !false == true & true
+// 4. true and false = false !false == true and true = true
+
+// 5.კომენტარის სახით ახსენით რას გამოიტანს და რატომ: !(10 > 5) === false && 10 > 3 && 20 == 10
+// 5. 10 > 5 = false false === false === true true and 10 > 3 === true true and 20 == 10 === false
 
 
-let num = 15
 
- let userNum = prompt ('enter you number :')
-    console.log(userNum == num)
+
 
