@@ -51,5 +51,5 @@
 // let num2 = Number(prompt('enter youre number : '))
 // let num3 = 0
 // for(let i = num1 ; i<num2;i +=1){
-//    num3+=1
+//    num3+=i
 // }console.log(num3)
